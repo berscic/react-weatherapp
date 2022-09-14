@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <Weather />
       <p>
-        <a href="https://github.com/berscic/react-weatherapp">
+        <a href="https://github.com/berscic/react-weatherapp" target="blank">
           Open source code
         </a>{" "}
         availble on GitHub
